@@ -1,0 +1,7 @@
+{
+  "ErrorMessages": {
+    "NotFound": "Entity does not exist for provided identifier.",
+    "Conflict": "An entity with same key already exist.",
+    "Other": "An unexpected error has occurred while processing the request."
+  }
+}
